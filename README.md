@@ -31,7 +31,7 @@ Simply copy the exercise to your account, then give your favorite Octocat (Mona)
 2. Create a new branch from `main` (for this exercise, use `my-first-branch`).
 3. Make your change (for example, add `PROFILE.md`).
 4. Commit and push your branch.
-5. Open a pull request from your fork/branch into `main`.
+5. Open a pull request from your fork branch into this repository's `main` branch.
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
